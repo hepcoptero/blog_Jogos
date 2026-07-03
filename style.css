@@ -18,5 +18,5 @@ section {
     text-align: center;
 }
 div img {
-    object-fit: cover;
+    object-fit:fill;
 }
